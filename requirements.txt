@@ -1,0 +1,32 @@
+Python 3.x
+
+No external libraries required
+
+📋 Example
+vbnet
+Copy
+Edit
+Enter amount in INR:
+100
+Available currencies:
+US Dollar
+British Pound
+Japanese Yen
+...
+
+Please enter the name of the currency to convert to:
+US Dollar
+100 INR is equal to 1.18 US Dollar
+📝 License
+This project is licensed under the MIT License.
+
+yaml
+Copy
+Edit
+
+---
+
+## 📄 4. `requirements.txt`
+
+```txt
+# No external packages required (standard library only)
